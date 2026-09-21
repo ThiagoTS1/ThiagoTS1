@@ -1,16 +1,40 @@
-# Hi, I'm Thiago 👋
+# 👨🏻‍💻 Thiago Tomé
 
-I'm a Computer Engineering student at IFSP, interested in Data, Artificial Intelligence and Data Engineering.
+### Computer Engineering Student | Data & AI
 
-Currently working with data analysis, automation and data visualization using Python, SQL, Excel and Power BI.
+---
 
-## Technologies
+### Sobre mim
 
-**Data & AI:** Python, Pandas, NumPy, Scikit-learn, SQL  
-**BI & Visualization:** Power BI, Excel  
-**Databases:** MySQL, SQL Server, Oracle  
-**Development:** Java, JavaScript, TypeScript, C
+Sou estudante de Engenharia da Computação no IFSP, com experiência em análise,
+tratamento e automação de dados. Atualmente atuo com Python, Excel, Power BI e
+Oracle, desenvolvendo análises, dashboards, indicadores e automações.
 
-## Focus
+Tenho interesse profissional em Dados, Inteligência Artificial, Machine Learning
+e Engenharia de Dados.
+
+---
+
+### 🛠️ Tecnologias
+
+**Data & AI**
+
+Python · Pandas · NumPy · Scikit-learn · SQL
+
+**BI & Data Visualization**
+
+Power BI · Excel · Matplotlib
+
+**Databases**
+
+Oracle · MySQL · SQL Server
+
+**Development**
+
+Java · C · JavaScript · TypeScript
+
+---
+
+### 🎯 Foco
 
 Data Analysis · Artificial Intelligence · Machine Learning · Data Engineering
