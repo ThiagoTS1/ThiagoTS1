@@ -22,7 +22,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**projeto-engenharia-dados**](https://github.com/ThiagoTS1/projeto-engenharia-dados) | Pipeline de dados end-to-end: ingestão, transformação e modelagem analítica | Python · BigQuery · dbt Core |
-| **Classificador de chamados técnicos** | Modelo de NLP que classifica a criticidade de chamados de field service a partir do texto livre | Python · Scikit-learn · TF-IDF · BERT |
+| [**Classificador de chamados técnicos**](https://github.com/ThiagoTS1/Classificador-de-chamados-com-IA) | Modelo de NLP que classifica a criticidade de chamados de field service a partir do texto livre | Python · Scikit-learn · TF-IDF · BERT |
 | [**terrasense**](https://github.com/ThiagoTS1/terrasense) | _adicione uma descrição curta aqui_ | HTML |
 | [**M-Rock**](https://github.com/ThiagoTS1/M-Rock) | Site para escola de música | Laravel · JavaScript |
 
