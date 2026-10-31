@@ -2,7 +2,7 @@
 <p align="center"><b>Data Analyst → Data Engineering & AI</b><br>Engenharia de Computação @ IFSP · São Paulo, SP</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/thiago-tomé-9b436827b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:thiagotome2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -65,11 +65,3 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThiagoTS1&show_icons=true&theme=transparent&hide_border=true&count_private=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTS1&layout=compact&theme=transparent&hide_border=true">
-</p>
